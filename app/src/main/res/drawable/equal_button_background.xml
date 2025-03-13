@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/equal_button_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/blue" /> <!-- لون الخلفية -->
+    <stroke android:width="2dp" android:color="@color/black" /> <!-- لون الحدود -->
+    <corners android:radius="0dp" /> <!-- زوايا مربعة -->
+</shape>
