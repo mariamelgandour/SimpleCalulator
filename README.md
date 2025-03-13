@@ -1,4 +1,4 @@
-﻿# SimpleCalulator
+
 # SimpleCalulator
 # Calculator App
 
